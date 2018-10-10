@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/MonteiroJ/SuperChat/issues"
   },
-  "homepage": "https://github.com/MonteiroJ/SuperChat#readme"
+  "homepage": "https://github.com/MonteiroJ/SuperChat#readme",
+  "dependencies": {
+    "ent": "^2.2.0",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mysql": "^2.16.0",
+    "socket.io": "^2.1.1"
+  }
 }
