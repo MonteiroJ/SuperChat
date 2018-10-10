@@ -1,0 +1,27 @@
+{
+  "name": "superchat",
+  "version": "0.1.0",
+  "description": "Chat that will evolve",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MonteiroJ/SuperChat.git"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "express",
+    "socket.io",
+    "cookie-express",
+    "mysql"
+  ],
+  "author": "Jose MONTEIRO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonteiroJ/SuperChat/issues"
+  },
+  "homepage": "https://github.com/MonteiroJ/SuperChat#readme"
+}
